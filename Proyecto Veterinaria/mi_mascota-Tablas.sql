@@ -1,4 +1,4 @@
-drop database if exists mis_mascotas;
+drop database if exists mi_mascota;
 
 create database mi_mascota;
 
